@@ -157,11 +157,20 @@ img {
     width: 100%;
   }
 
+  .steps {
+    margin-bottom: 0;
+  }
+
   .steps .col {
     width: 100%;
   }
 
   .why-us .col {
     width: 100%;
+  }
+
+  .why-us {
+    padding-top: 3rem;
+    background: #000;
   }
 }
